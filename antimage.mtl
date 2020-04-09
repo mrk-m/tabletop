@@ -1,0 +1,93 @@
+# Blender MTL File: 'aantimage.blend'
+# Material Count: 7
+
+newmtl blinn1
+Ns 56.806129
+Ka 0.500000 0.500000 0.500000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump -bm 0.250000 C:\\Users\\markm\\Desktop\\antimage\\materials\\antimage_belt_normal.tga
+map_Kd C:\\Users\\markm\\Desktop\\antimage\\materials\\antimage_belt_color.tga
+map_Ks C:\\Users\\markm\\Desktop\\antimage\\materials\\antimage_belt_specularMask.tga
+
+newmtl blinn2
+Ns 56.806129
+Ka 0.500000 0.500000 0.500000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump -bm 0.250000 C:\\Users\\markm\\Desktop\\antimage\\materials\\antimage_arms_normal.tga
+map_Kd C:\\Users\\markm\\Desktop\\antimage\\materials\\antimage_arms_color.tga
+map_Ks C:\\Users\\markm\\Desktop\\antimage\\materials\\antimage_arms_specularMask.tga
+
+newmtl blinn3
+Ns 56.806129
+Ka 0.500000 0.500000 0.500000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump -bm 0.250000 C:\\Users\\markm\\Desktop\\antimage\\materials\\antimage_armor_normal.tga
+map_Kd C:\\Users\\markm\\Desktop\\antimage\\materials\\antimage_armor_color.tga
+map_Ks C:\\Users\\markm\\Desktop\\antimage\\materials\\antimage_armor_specularMask.tga
+
+newmtl blinn4
+Ns 56.806129
+Ka 0.500000 0.500000 0.500000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump -bm 0.250000 C:\\Users\\markm\\Desktop\\antimage\\materials\\antimage_head_normal.tga
+map_Kd C:\\Users\\markm\\Desktop\\antimage\\materials\\antimage_head_color.tga
+map_Ks C:\\Users\\markm\\Desktop\\antimage\\materials\\antimage_head_specularMask.tga
+
+newmtl blinn5
+Ns 56.806129
+Ka 0.500000 0.500000 0.500000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump -bm 0.250000 C:\\Users\\markm\\Desktop\\antimage\\materials\\base\\__antimage_base_normal.tga
+map_Kd C:\\Users\\markm\\Desktop\\antimage\\materials\\base\\__antimage_base_color.tga
+map_Ks C:\\Users\\markm\\Desktop\\antimage\\materials\\base\\__antimage_base_specularMask.tga
+
+newmtl blinn6
+Ns 56.806129
+Ka 0.500000 0.500000 0.500000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump -bm 0.250000 C:\\Users\\markm\\Desktop\\antimage\\materials\\antimage_weapon_normal.tga
+map_Kd C:\\Users\\markm\\Desktop\\antimage\\materials\\antimage_weapon_color.tga
+map_Ks C:\\Users\\markm\\Desktop\\antimage\\materials\\antimage_weapon_specularMask.tga
+
+newmtl blinn7
+Ns 56.806129
+Ka 0.500000 0.500000 0.500000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump -bm 0.250000 C:\\Users\\markm\\Desktop\\antimage\\materials\\antimage_offhand_normal.tga
+map_Kd C:\\Users\\markm\\Desktop\\antimage\\materials\\antimage_offhand_color.tga
+map_Ks C:\\Users\\markm\\Desktop\\antimage\\materials\\antimage_offhand_specularMask.tga
